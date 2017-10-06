@@ -5,5 +5,5 @@ package com.cet.inshorts;
  */
 
 public class Article {
-
+    public String author, title, description, url, urlToImage, publishedAt;
 }
