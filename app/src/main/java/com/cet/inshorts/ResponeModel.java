@@ -1,5 +1,6 @@
 package com.cet.inshorts;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -8,6 +9,6 @@ import java.util.List;
 
 public class ResponeModel
 {
-    public List<Article> articles;
+    public ArrayList<Article> articles;
     public String status,source,sortBy;
 }
